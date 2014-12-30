@@ -4,5 +4,5 @@ Site perso
 
 ## Used technologies
 
-*Yeoman HTML5 Boilerplate Boostraping
-*Grunt
+* Yeoman HTML5 Boilerplate Boostraping
+* Grunt
