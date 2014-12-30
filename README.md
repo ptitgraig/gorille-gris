@@ -1,6 +1,6 @@
 # Gorille gris
 
-Site perso
+Personal website with links to CV, Blog, GitHub page.
 
 ## Used technologies
 
